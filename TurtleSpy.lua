@@ -1,3 +1,4 @@
+-- // Credits to Intrer#0421
 local colorSettings =
 {
     ["Main"] = {
@@ -374,7 +375,7 @@ HeaderTextLabel.Position = UDim2.new(-0.00507604145, 0, -0.202857122, 0)
 HeaderTextLabel.Size = UDim2.new(0, 215, 0, 29)
 HeaderTextLabel.ZIndex = 10
 HeaderTextLabel.Font = Enum.Font.SourceSans
-HeaderTextLabel.Text = "Turtle Spy"
+HeaderTextLabel.Text = "script.gg"
 HeaderTextLabel.TextColor3 = colorSettings["Main"]["HeaderTextColor"]
 HeaderTextLabel.TextSize = 17.000
 
@@ -482,7 +483,7 @@ Code.Position = UDim2.new(0.00888902973, 0, 0.0394801199, 0)
 Code.Size = UDim2.new(0, 100000, 0, 25)
 Code.ZIndex = 18
 Code.Font = Enum.Font.SourceSans
-Code.Text = "Thanks for using Turtle Spy! :D"
+Code.Text = ""
 Code.TextColor3 = colorSettings["Code"]["TextColor"]
 Code.TextSize = 14.000
 Code.TextWrapped = true
